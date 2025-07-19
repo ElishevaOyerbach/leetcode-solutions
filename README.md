@@ -72,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,4 +87,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
