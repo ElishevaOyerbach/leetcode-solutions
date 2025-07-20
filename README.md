@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Greedy
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Stack
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0001-two-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -103,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Trie
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
