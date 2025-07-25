@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0060-permutation-sequence) |
+| [0149-max-points-on-a-line](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0233-number-of-digit-one](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 ## Dynamic Programming
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0149-max-points-on-a-line](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Sliding Window
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
