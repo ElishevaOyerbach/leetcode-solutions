@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,10 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
