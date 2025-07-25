@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0239-sliding-window-maximum](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Greedy
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Sorting
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Linked List
 |  |
@@ -138,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
