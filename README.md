@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 ## Recursion
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -164,4 +166,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
