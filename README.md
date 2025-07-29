@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0233-number-of-digit-one](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [0828-chalkboard-xor-game](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0828-chalkboard-xor-game](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Greedy
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0828-chalkboard-xor-game](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Hash Table
 |  |
@@ -167,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0221-maximal-square) |
+## Brainteaser
+|  |
+| ------- |
+| [0828-chalkboard-xor-game](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
+## Game Theory
+|  |
+| ------- |
+| [0828-chalkboard-xor-game](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
