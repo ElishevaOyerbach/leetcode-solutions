@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0828-chalkboard-xor-game](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Greedy
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0828-chalkboard-xor-game](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 <!---LeetCode Topics End-->
