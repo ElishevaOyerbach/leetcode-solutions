@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
