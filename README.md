@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
