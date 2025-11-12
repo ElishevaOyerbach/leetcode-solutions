@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0041-first-missing-positive) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Hash Function
 |  |
