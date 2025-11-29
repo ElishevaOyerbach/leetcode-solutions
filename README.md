@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0828-chalkboard-xor-game](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
