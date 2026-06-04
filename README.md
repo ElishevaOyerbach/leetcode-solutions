@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0828-chalkboard-xor-game](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Tree
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0221-maximal-square) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Brainteaser
 |  |
 | ------- |
@@ -215,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
