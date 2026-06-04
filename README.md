@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-chalkboard-xor-game](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ElishevaOyerbach/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String Matching
 |  |
 | ------- |
