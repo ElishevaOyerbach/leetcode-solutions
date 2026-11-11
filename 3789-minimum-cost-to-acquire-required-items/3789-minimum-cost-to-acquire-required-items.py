@@ -10,9 +10,7 @@ class Solution(object):
             c=((costBoth*need1)+(cost2*(need2-need1)))
 
         return min(a,b,c)
-        # if cost1+cost2 >=costBoth:
-        #     return costBoth*(max(need1,need2))
-        # return (cost1*need1)+(cost2*need2)
+
         """
         :type cost1: int
         :type cost2: int
